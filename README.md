@@ -24,36 +24,15 @@ After developing further my skill in data analysis thanks to an intensive bootca
 
 In my free time, I like to explore the world, hike with my dog, play to the Legend of Zelda and watch TV shows. 
 
-### Languages and Data Analytics Tools:
-- [x] SQL
-- [x] Python
-- [x] Git 
-- [x] Shell / Bash
-- [x] Microsoft Excel / Google Sheet
+### Data Skills :
 
-### Data Visualization Tools:
-- [x] Python (matplotlib, seaborn, plotly)
-- [x] Tableau
-- [x] Power BI 
-- [x] Looker Studio
 
-### Data Warehouse:
-- [x] DBT 
-- [x] Google Big Query
+| Languages and Data Analytics Tools  | Data Visualization Tools              | Data Warehouse   | Data Extraction   | Reverse ELT |  Data Tracking     | 
+| ------------------------------------| --------------------------------------|------------------|-------------------|-------------|--------------------|
+|  SQL / Python / Git                 | Python (matplotlib, seaborn, plotly)  | DBT              | API resquest      |  Census     | Google Tag Manager |
+|  Shell / Bash                       | Tableau / Power BI / Looker Studio    | Google Big Query | Web Scrapping     |             | Google Analytic    |
+| Microsoft Excel / Google Sheet      |                                       |                  | Zapier / Fivetran |             |                    |
 
-### Data Extraction:
-- [x] API resquest
-- [x] Web Scrapping
-- [x] Zapier / Fivetran
-
-### Reverse ELT:
-- [x] Census
-
-### Data Tracking:
-- [x] Google Tag Manager
-- [x] Google Analytic
-
-<br />
 
 ### Work Experience:
 

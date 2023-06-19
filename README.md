@@ -22,7 +22,8 @@ For almost 5 years, I have been immersed in data through my academic and profess
 After developing further my skill in data analysis thanks to an intensive bootcamp at Le Wagon, I am now seeking new opportunities as a data scientist. I am looking forward to use my analytical skills, scientific background and enthusiasm for data-driven decision-making to contribute to the success of an innovative organization.
 
 
-In my free time, I like to explore the world, hike with my dog, play to the Legend of Zelda and watch TV shows. 
+In my spare time, I like to explore the world, go hiking with my dog, play The Legend of Zelda and watch TV series.
+
 
 ### Data Skills :
 

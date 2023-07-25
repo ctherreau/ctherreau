@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 My name is Chloe Therreau.
 
-For almost 5 years, I have been immersed in data through my academic and professional career. It started during my PhD in particle physics (Nantes University) and continued as an R&D engineer in optical simulations.
+Over the past six years, I have gained extensive experience in the field of data through my academic and professional journey. First, during my doctoral studies in particle physics, then as a R&D engineer specialised in optical simulations.
 
-After developing further my skill in data analysis thanks to an intensive bootcamp at Le Wagon, I am now seeking new opportunities as a data scientist. I am looking forward to use my analytical skills, scientific background and enthusiasm for data-driven decision-making to contribute to the success of an innovative organization.
+Having further developed my data analysis skills thanks to an intensive bootcamp, I am now seeking new opportunities as a data analyst. 
+
+I am looking forward to use my analytical skills, scientific background and enthusiasm for data-driven decision-making to contribute to the success of an innovative organization.
 
 
 In my spare time, I like to explore the world, go hiking with my dog, play The Legend of Zelda and watch TV series.
